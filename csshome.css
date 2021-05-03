@@ -2,17 +2,17 @@ body {
   background-color: #d6f5d6;
 }
 header {
-  background-color: "White";
+  background-color: White;
   font-color: "#65FCBE";
 }
 h1{
   text-align: center;
-  color: "black";
+  color: black;
   font-size: "4.5px";
 }
 footer{
-  background-color: "honeydew";
-  font-color: "deeppink";
+  background-color: honeydew;
+  font-color: deeppink;
 }
 
   
